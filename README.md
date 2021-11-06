@@ -7,6 +7,11 @@
 ![](https://img.shields.io/npm/dt/socket-anti-spam.svg)
 ![](https://img.shields.io/npm/l/express.svg)
 ___
+
+# Fork
+
+This fork implements the socket anti spam with use of cassandra DB instead of redis.
+
 # What it does
 
 
